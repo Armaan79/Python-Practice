@@ -1,0 +1,10 @@
+name=input("Enter your name: ")
+a=int(input("Enter your age: "))
+col=input("Enter your college name: ")
+cgpa=float(input("Enter your cgpa: "))
+
+print("\n--------Student Information--------")
+print("Name:",name)
+print("Age:",a)
+print("College name:",col)
+print("CGPA:",cgpa)
