@@ -1,121 +1,65 @@
-# 🐍 Python Practice
+# Python Practice
 
-Welcome to my Python learning journey!
+This repository is where I keep all of my Python practice as I learn the language.
 
-This repository contains my daily Python practice programs, mini projects, and exercises as I work towards building AI and Machine Learning applications for my final-year project.
+I'm currently learning Python from scratch with the goal of building AI and Machine Learning projects for my final-year project. Instead of keeping my code on my computer, I decided to upload everything here so I can track my progress and look back at how much I've improved over time.
 
----
-
-## 📅 Learning Progress
-
-| Day | Project | Topics Covered | Status |
-|------|---------|----------------|--------|
-| Day 1 | To-Do List | Variables, User Input, Lists, Loops, Functions, Conditions | ✅ Completed |
-| Day 2 | Student Information, Calculator & Age Calculator | Data Types, Type Conversion, User Input, Arithmetic Operators, Conditional Statements | ✅ Completed |
-| Day 3 | Coming Soon | Decision Making & Logical Operators | ⏳ Upcoming |
+Each folder represents a day of learning and contains the programs I built while practicing.
 
 ---
 
-## 📂 Repository Structure
+## Progress
 
-```text
-Python-Practice
-│
-├── Day-01
-│   └── todo.py
-│
-├── Day-02
-│   ├── student_info.py
-│   ├── calculator.py
-│   ├── age_calculator.py
-│   └── README.md
-│
-└── README.md
-```
+### Day 1 – To-Do List
 
----
-
-## 🚀 Projects
-
-### 📌 Day 1 – To-Do List
-
-**Concepts Learned**
+**What I learned**
 - Variables
-- User Input (`input()`)
-- Functions
+- User input
 - Lists
-- Loops (`while`)
-- Conditional Statements (`if`, `elif`, `else`)
-- `append()`
-- `pop()`
-- `enumerate()`
+- Functions
+- Loops
+- Conditional statements
 
-**Project Description**
-
-A command-line To-Do List application that allows users to:
-
-- ➕ Add tasks
-- 📋 View all tasks
-- ❌ Remove completed tasks
-- 🚪 Exit the application
+**Project**
+A simple command-line To-Do List application where users can add, view, and remove tasks.
 
 ---
 
-### 📌 Day 2 – Python Fundamentals
+### Day 2 – Python Basics
 
-**Concepts Learned**
+**What I learned**
+- Data types
+- Type conversion
+- Arithmetic operators
+- User input
+- `if`, `elif`, and `else`
+- Using the `datetime` module
 
-- Variables
-- Data Types (`int`, `float`, `str`)
-- User Input
-- Type Conversion
-- Arithmetic Operators
-- Conditional Statements (`if`, `elif`, `else`)
-- Importing Modules (`datetime`)
-
-**Programs Built**
-
-- 👤 Student Information System
-- 🧮 Simple Calculator
-- 🎂 Age Calculator
+**Programs**
+- Student Information
+- Calculator
+- Age Calculator
 
 ---
 
-## 🎯 Goals
+## Why this repository?
 
-- Strengthen Python programming skills
-- Build mini projects consistently
-- Learn Git and GitHub effectively
-- Prepare for AI and Machine Learning development
-- Build a strong GitHub portfolio
+I created this repository to stay consistent with my learning and keep all of my practice in one place.
+
+As I continue learning, I'll keep adding new programs and projects here.
 
 ---
 
-## 🛠️ Tools & Technologies
+## What's next?
 
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
+Some of the topics I'll be learning next are:
 
----
+- Loops
+- Functions
+- File handling
+- Object-Oriented Programming
+- Data Structures
+- Python libraries
+- AI and Machine Learning
 
-## 📈 Roadmap
-
-- ✅ Python Basics
-- ✅ Variables & Data Types
-- ✅ User Input
-- ✅ Conditional Statements
-- ⏳ Loops
-- ⏳ Functions
-- ⏳ File Handling
-- ⏳ Object-Oriented Programming
-- ⏳ Modules & Packages
-- ⏳ Data Structures
-- ⏳ NumPy & Pandas
-- ⏳ Machine Learning
-- ⏳ Final Year AI Project
-
----
-
-⭐ This repository is updated regularly as I continue learning Python and documenting my progress.
+Thanks for checking out my repository!
