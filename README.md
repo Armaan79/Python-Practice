@@ -65,5 +65,3 @@ Concepts I practiced:
 - Program logic
 
 ---
-
-Thanks for taking a look at my repository.
